@@ -35,12 +35,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Student at Rwanda Coding Academy",
-    location: "Rwanda",
+    title: "Graduate of Rwanda Coding Academy",
+    location: "Rwanda-Nyabihu",
     description:
       "I am a graduate at  Rwanda Coding Academy, where I learnt  advanced programming and systems development.",
     icon: React.createElement(LuGraduationCap),
-    date: "2024",
+    date: "2022 - 2024",
   },
   {
     title: "Attended HerInTech Summer Bootcamp",
